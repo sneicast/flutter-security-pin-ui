@@ -1,6 +1,6 @@
 # security_pin_ui
 
-A new Flutter project.
+![Screenshot](screenshot.png)
 
 ## Turorial
 
